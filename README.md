@@ -1,1 +1,1 @@
-This repository is for my own use to get back into React after a while.
+This is a an app created by using react.js.
