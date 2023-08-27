@@ -1,5 +1,6 @@
-import Nav from "./components/Nav";
-import Header from "./components/Header";
+import Nav from "./components/nav";
+import Header from "./components/header";
+import Row from "./components/rows"
 import './App.css';
 
 function App() {
@@ -9,6 +10,8 @@ function App() {
       <Nav />
       {/* Header */}
       <Header />
+      {/* Rows */}
+      <Row />
     </div>
   );
 }
