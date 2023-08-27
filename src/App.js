@@ -7,10 +7,8 @@ function App() {
     <div className="app">
       {/* Nav */}
       <Nav />
-      {/* End Nav */}
       {/* Header */}
       <Header />
-      {/* Header */}
     </div>
   );
 }
